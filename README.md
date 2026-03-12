@@ -1,4 +1,4 @@
-# russian-roulet
+
 ```
 1. Run the program.
 2. Pick a chamber number between 1 and 6.
